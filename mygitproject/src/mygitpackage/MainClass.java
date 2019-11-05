@@ -12,6 +12,10 @@ public class MainClass {
 	System.out.println("name:"+obj.getName()+" id:"+obj.getId());
 	//	obj.display();
 		
+	Person pobj =new Person();
+	
+	pobj.setName("new person");
+	System.out.println("person name:"+pobj.getName());
 	}
 
 }
