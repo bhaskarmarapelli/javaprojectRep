@@ -9,8 +9,8 @@ public class MainClass {
 		
 		obj.setName("bhaskar");
 		obj.setId(1234);
-		//System.out.println("name:"+obj.getName()+" id:"+obj.getId());
-		obj.display();
+	System.out.println("name:"+obj.getName()+" id:"+obj.getId());
+	//	obj.display();
 		
 	}
 

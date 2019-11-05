@@ -24,6 +24,8 @@ public class Student {
 	public void display()
 	{
 		System.out.println("name:"+this.name+" id:"+this.id);
+	//display here
+	
 	}
 	
 }
