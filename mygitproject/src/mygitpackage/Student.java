@@ -20,4 +20,10 @@ public class Student {
 	{
 		return this.id;
 	}
+	
+	public void display()
+	{
+		System.out.println("name:"+this.name+" id:"+this.id);
+	}
+	
 }
